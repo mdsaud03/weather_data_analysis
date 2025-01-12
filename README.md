@@ -1,13 +1,9 @@
 
 # **☔ Weather Data Analysis using Python**
 
-This project involves analyzing a time-series weather dataset with per-hour information about weather conditions at a specific location. 
+This project focuses on the analysis of weather data captured over the course of a year (2012) at a specific location. The dataset includes hourly observations, recorded in a CSV file, containing several weather parameters such as temperature, dew point temperature, relative humidity, wind speed, visibility, pressure, and weather conditions. The goal of the analysis was to clean, process, and extract meaningful insights from the dataset using Python's Pandas library, a powerful tool for data manipulation and analysis. Key tasks include identifying patterns, computing statistical summaries, handling missing values, and performing exploratory data analysis (EDA) to uncover trends in weather data. The analysis also includes weather condition distributions, the effects of wind speed on visibility, and the relationship between pressure and temperature.
 
-The dataset records various attributes such as Temperature, Dew Point Temperature, Relative Humidity, Wind Speed, Visibility, Pressure, and Weather Conditions. 
 
-The analysis is performed using Python and its powerful libraries, focusing on data manipulation and exploratory data analysis.
-
-![Logo](https://i.imgur.com/GyDKfGP.jpeg)
 
 ## Project Overview 📃
 The main objectives of this project are:
@@ -45,13 +41,4 @@ Run the notebook file to replicate the analysis:
 Key insights and observations from the analysis will be highlighted here, such as:
 - Trends in temperature and humidity over time.
 - Anomalies or changes in weather conditions.
-## Author 🎓
-
-- **Mainak Mukherjee**
-
-- **Email:** subha.mainak@gmail.com
-
-- **Linkedin:** www.linkedin.com/in/mainakmukherjee08
-
-- **GitHub:** https://github.com/Mainak-97
 
