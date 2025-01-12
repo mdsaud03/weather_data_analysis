@@ -37,7 +37,7 @@ Run the notebook file to replicate the analysis:
 1. Open the notebook file in Jupyter Notebook or JupyterLab.
 2. Follow the analysis steps provided in the cells.
 3. Modify the code for any custom data or additional analyses.
-# Results 🔹
+# Conclusion 🔹
 Key insights and observations from the analysis will be highlighted here, such as:
 - Trends in temperature and humidity over time.
 - Anomalies or changes in weather conditions.
